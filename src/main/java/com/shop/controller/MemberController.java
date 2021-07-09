@@ -112,7 +112,7 @@ public class MemberController {
         logger.info("인증번호 " + checkNum);
         
         /* 이메일 보내기 */
-        String setFrom = "x4513x@naver.com";
+        String setFrom = "1111@naver.com";
         String toMail = email;
         String title = "재현 쇼핑몰 회원가입 인증 이메일 입니다.";
         String content = 

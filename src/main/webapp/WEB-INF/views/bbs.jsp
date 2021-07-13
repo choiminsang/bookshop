@@ -66,18 +66,20 @@
 
 
 			<!-- 검색 영역 -->
-			<div class="search_wrap">
-				<form id="searchForm" action="/bbs" method="get">
-					<div class="search_input">
-						<input type="text" name="keyword"
-							value='<c:out value="${pageMaker.cri.keyword}"></c:out>'>
-						<input type="hidden" name="pageNum"
-							value='<c:out value="${pageMaker.cri.pageNum }"></c:out>'>
-						<input type="hidden" name="amount" value='${pageMaker.cri.amount}'>
-						<button class='btn search_btn'>검 색</button>
-					</div>
-				</form>
-			</div>
+         <div class="search_wrap">
+            <form id="searchForm2" action="/bbs" method="get">
+               <div class="search_input">
+                  <input type="text" name="bbsKeyword"
+                     value='<c:out value="${pageMaker.cri.keyword}"></c:out>'>
+                  <input type="hidden" name="pageNum"
+                     value='<c:out value="${pageMaker.cri.pageNum }"></c:out>'>
+                  <input type="hidden" name="amount" value='${pageMaker.cri.amount}'>
+                  <button class='btn search_btn'>검 색</button>
+               </div>
+            </form>
+         </div>
+
+
 			<!-- 페이지 이동 인터페이스 영역 -->
 			<div class="pageMaker_wrap">
 
@@ -147,7 +149,8 @@
 		});
 
 		let moveForm = $('#moveForm');
-		let searchForm = $('#searchForm');
+		let searchForm2 = $('#searchForm2');
+
 		/* 페이지 이동 버튼 */
 		$(".pageMaker_btn a").on("click", function(e) {
 
@@ -160,21 +163,22 @@
 		});
 
 		/*  검색 버튼 동작 */
-		$("#searchForm button").on("click", function(e) {
+       $("#searchForm2 button").on("click", function(e) {
 
-			e.preventDefault();
+         e.preventDefault();
 
-			/* 검색 키워드 유효성 검사 */
-			if (!searchForm.find("input[name='keyword']").val()) {
-				alert("키워드를 입력하십시오");
-				return false;
-			}
+         /* 검색 키워드 유효성 검사 */
+         if (!searchForm2.find("input[name='bbsKeyword']").val()) {
+            alert("키워드를 입력하십시오");
+            return false;
+         }
 
-			searchForm.find("input[name='pageNum']").val("1");
+         searchForm2.find("input[name='pageNum']").val("1");
 
-			searchForm.submit();
+         searchForm2.submit();
 
-		});
+      });
+
 	</script>
 
 </body>

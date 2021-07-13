@@ -45,6 +45,8 @@ public class Criteria {
     
     /* 검색 키워드 */
     private String keyword;
+	
+    private String bbsKeyword;
     
     /* Criteria 생성자 */
     public Criteria(int pageNum, int amount) {
@@ -104,7 +106,13 @@ public class Criteria {
 	public void setKeyword(String keyword) {
 		this.keyword = keyword;
 	}
+        public String getBbsKeyword() {
+		return bbsKeyword;
+	}
 
+	public void setBbsKeyword(String bbsKeyword) {
+		this.bbsKeyword = bbsKeyword;
+	}
 	@Override
 	public String toString() {
 		return "Criteria [pageNum=" + pageNum + ", amount=" + amount + ", skip=" + skip + ", type=" + type

@@ -27,7 +27,8 @@
 
 # 구현 화면
 * **어드민 페이지**
-
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126927820-6587ae4c-4c0a-47bf-b12e-442d37efc083.gif)
+ 
 * **메인 페이지**<br>   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126925221-cacd1959-bb1d-4444-b9bb-aa0076e2f3a2.gif)
   

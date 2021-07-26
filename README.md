@@ -45,6 +45,7 @@
   <img src="https://user-images.githubusercontent.com/87048430/126928014-bf705419-810d-4346-9255-e269016a011f.PNG" width="600" heigth="325"/>
 
 * **회원 게시판** <br>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126928531-c4e9f3b9-07ce-430e-b7a5-da2a328fb6a8.gif)
 
   
  

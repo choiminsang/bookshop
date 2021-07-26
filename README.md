@@ -13,7 +13,7 @@
   * 마이룸 구현(장바구니, 상품주문, 회원정보 조회)
   * 관리자 페이지 구현(작가 등록, 작가 관리)
   
- # Views
+ # Implementation
   * 메인 <br> <br>
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126922398-accdfd6e-2edc-4f56-9cf4-48c08e39dc6c.gif)
   

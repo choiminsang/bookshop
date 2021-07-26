@@ -5,7 +5,7 @@
 # 개발 환경 및 담당 파트
 * 개발 기간: 2021.06.07 ~2021.07.09
 * 참여 인원: 3명
-* 사용 기술 
+* 사용 기술 및 개발 환경 
   * spring 4.0, Apache Tomcat 9.0, BootStrap, Mybatis
   * Java, Ajax, Jquery, MVC Pttern, MySQL
 * 담당 구현 파트

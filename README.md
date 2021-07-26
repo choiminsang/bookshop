@@ -27,7 +27,7 @@
 
 # 구현 화면
 * **어드민 페이지** <br>
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126927820-6587ae4c-4c0a-47bf-b12e-442d37efc083.gif)
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126929030-a77e14ba-6bd8-41bc-bf51-d4a2e6000c4e.gif)
  
 * **메인 페이지**<br>   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126925221-cacd1959-bb1d-4444-b9bb-aa0076e2f3a2.gif)
@@ -45,7 +45,7 @@
   <img src="https://user-images.githubusercontent.com/87048430/126928014-bf705419-810d-4346-9255-e269016a011f.PNG" width="600" heigth="325"/>
 
 * **회원 게시판** <br>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126928531-c4e9f3b9-07ce-430e-b7a5-da2a328fb6a8.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126929180-9da6beb8-75d0-4eef-a3aa-4421fb99b352.gif)
 
   
  

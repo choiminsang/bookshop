@@ -30,5 +30,5 @@
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126925221-cacd1959-bb1d-4444-b9bb-aa0076e2f3a2.gif)
   
 * 상품 카테고리
-   
+   ![카테고리](https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG){: width="100" heigth="100"}
  

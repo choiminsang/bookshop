@@ -49,8 +49,8 @@
 * **회원 게시판** <br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126929180-9da6beb8-75d0-4eef-a3aa-4421fb99b352.gif)
 
-* **회원 게시판** <br>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126929180-9da6beb8-75d0-4eef-a3aa-4421fb99b352.gif)
+* **회원정보 조회** <br>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126929601-bc6e62e4-61d0-4cbc-ad9a-da6f3a76e3de.gif)
 
   
  

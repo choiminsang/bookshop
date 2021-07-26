@@ -26,9 +26,15 @@
 * 게시판이용  및 댓글 작성
 
 # 구현 화면
-* **메인 화면**<br>   
+* **어드민 페이지**
+
+* **메인 페이지**<br>   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126925221-cacd1959-bb1d-4444-b9bb-aa0076e2f3a2.gif)
   
-* 상품 카테고리
-   ![카테고리](https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG){: width="100" heigth="100"}
+* **상품 카테고리**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG" width="600" heigth="325"/>
+  
+* **상품 상세보기**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126926646-4f49f512-ca4c-4652-9a88-5541a9dbbcb1.PNG" width="600" heigth="325"/>
+ 
  
